@@ -1,4 +1,4 @@
-# tokensandbox.io
+# Announcements
 This is the initial idea of the project. We can discuss detail specs, features and how to implement it.
 
 # I Would Like to Announce A New Project on Going for A Tokens Sharing Coding Sandbox, we can call it tokensandbox
