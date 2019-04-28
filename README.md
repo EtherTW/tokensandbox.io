@@ -26,7 +26,7 @@ This is how we are going to do,
 What we are not going to do.
 
 
-1. We are not going to do an ICO.
+~1. We are not going to do an ICO.~
 2. We are not going to centralize any service or any platform on purpose. Even though there are some tools or service may be hosted by us, yet they are just an interface for easy to use only. All your tokens, smart contracts, and their transactions are still on the blockchain we deploy to, and the webs or apps are still owned by yourself, by the users.
 3. We are not going to do KYC, and not going to use any of your data to do the AI stuff.
 
