@@ -1,7 +1,7 @@
 # Announcements
 This is the initial idea of the project. We can discuss detail specs, features and how to implement it.
 
-# I Would Like to Announce A New Project on Going for A Tokens Sharing Coding Sandbox, we can call it tokensandbox
+# I Would Like to Announce A New Project on Going for A Smart Contracts online IDE, we can call it tokensandbox
 
 Even though we call it a coding sandbox, which is inspired by [codesandbox.io](https://codesandbox.io/) for learning people to learn and use Javascript, we want to build a platform for people to create and share their tokens as easy as possible. It could be used as a tokens app or even a wallet without any line of code as well. By using this platform, people can easily and fully access the tokens they create on the blockchain and using that to build a brand new era of the digital economy globally.
 
